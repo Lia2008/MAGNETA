@@ -1,0 +1,12 @@
+[bed_mesh]
+speed: 100
+horizontal_move_z: 5
+mesh_min: 15,10
+mesh_max: 200, 200
+probe_count: 3, 3
+fade_end: 50
+split_delta_z: 0.01
+move_check_distance: 3
+mesh_pps: 2, 2
+algorithm: lagrange
+relative_reference_index: 4

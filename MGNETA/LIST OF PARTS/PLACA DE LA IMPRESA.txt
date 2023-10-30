@@ -1,0 +1,1 @@
+Una mks robin nano v3.1 con unos tmc2209 el cableado es un lio si os atreveis podeis hacer un cableado nuevo o alargarlo porque hay cables que quedan muy cortos i no van marcados.
